@@ -29,7 +29,7 @@ Deep learning architectures for medical audio processing
 
 ### 🛠️ Tech Stack
 
-**AI/ML:** PyTorch, LangChain, QLoRA, Pinecone, RAG  
+**AI/ML:** PyTorch, CUDA, LangChain, QLoRA, Pinecone, RAG  
 **Backend:** Java/Spring Boot, Node.js, FastAPI, Kafka, Redis, gRPC  
 **Data:** Apache Spark, Elasticsearch, PostgreSQL, MongoDB  
 **Cloud:** AWS (ECS, Bedrock, Cognito), Docker, K8s  
