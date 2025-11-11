@@ -38,4 +38,4 @@ Deep learning architectures for medical audio processing
 ---
 
 📫 Reach me: [manmohan659@gmail.com](mailto:manmohan659@gmail.com) • [LinkedIn](https://linkedin.com/in/manmohan-sharma-716661167) • [𝕏](https://x.com/manny__sharma)  
-🌐 Portfolio: [manmohan659.github.io/manmohan-portfolio](https://manmohan659.github.io/manmohan-portfolio
+🌐 Portfolio: [manmohan659.github.io/manmohan-portfolio](https://manmohan659.github.io/manmohan-portfolio)
