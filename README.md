@@ -4,7 +4,7 @@ AI researcher and full-stack engineer building foundation models, robotics syste
 
 **MS Computer Science (AI), University of San Francisco.** 5+ years shipping backend and distributed systems across fintech, aviation, climate tech, and ML platforms.
 
-Currently working on **astrophysics/dark-energy foundation models** with Berkeley Lab / NERSC collaborators, alongside agentic ML systems at Lender Toolkit.
+Currently working as a **Full Stack Developer at Lender Toolkit**, while also doing academic research on **astrophysics/dark-energy foundation models** with Berkeley Lab / NERSC collaborators.
 
 ## Featured Work
 
@@ -16,7 +16,7 @@ Currently working on **astrophysics/dark-energy foundation models** with Berkele
 
 ## Recent Work
 
-- **ML Engineering @ Lender Toolkit** - agentic workflows with LangChain/LangGraph, QLoRA finetuning, RAG pipelines with Pinecone/Cohere rerankers, AWS ECS Fargate.
+- **Full Stack Developer @ Lender Toolkit** - agentic workflows with LangChain/LangGraph, QLoRA finetuning, RAG pipelines with Pinecone/Cohere rerankers, AWS ECS Fargate.
 - **Backend Engineering @ Accelya** - Spring Boot microservices, Spark/Kafka/Elasticsearch pipelines, and time-series forecasting.
 - **Distributed Systems @ TCS** - SSO for 100+ products, gRPC with mTLS, Redis caching, WebSockets, and Kafka-backed CI/CD.
 
